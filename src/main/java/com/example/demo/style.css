@@ -1,0 +1,13 @@
+.root{
+    -fx-background-color: linear-gradient(to top, #0f9ed3, #00d4ff);
+}
+
+.main-buttons {
+    -fx-background-color: linear-gradient(to top, #e86e04, #cdb82f);
+
+    -fx-background-radius: 30px;
+
+
+    -fx-text-fill: white;
+    -fx-font-size: 20px;
+}
