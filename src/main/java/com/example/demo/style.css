@@ -2,6 +2,17 @@
     -fx-background-color: linear-gradient(to top, #0f9ed3, #00d4ff);
 }
 
+.button{
+    -fx-background-color: linear-gradient(#E2BBC4, #B85F73 );
+    -fx-text-fill: black;
+    -fx-font-size: 16;
+    -fx-font-family: "Arial Narrow";
+    -fx-font-weight: bold;
+
+}
+.button:hover {
+-fx-background-color: linear-gradient(#2221FB, #C4C3FD);
+}
 .main-buttons {
     -fx-background-color: linear-gradient(to top, #e86e04, #cdb82f);
 
@@ -10,4 +21,14 @@
 
     -fx-text-fill: white;
     -fx-font-size: 20px;
+}
+
+.main-buttons:hover{
+-fx-background-color: linear-gradient(#2221FB, #C4C3FD);
+}
+#text-field{
+    -fx-background-color: #DEDADC;
+    -fx-text-fill: #595151;
+    -fx-font-size: 14px;
+    -fx-font-weight: bold;
 }
